@@ -6,7 +6,7 @@ Glob filter is supported, so you can upload main folder only, specific file exte
 # Requirements
 - Install Python 3.x
 - Install pip3
-- Install dropbox module
+- Install dropbox module using "pip3 install dropbox"
 - Dropbox API Token
 
 # How To Use
