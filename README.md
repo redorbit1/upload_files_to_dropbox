@@ -1,3 +1,5 @@
+# Upload Files to Dropbox
+
 # Description
 The purpose of this simple Python script is to upload files to Dropbox.
 The script will upload files and folders recursively starting from a base path.
