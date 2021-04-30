@@ -1,9 +1,14 @@
 # Upload Files to Dropbox
 
 # Description
-The purpose of this simple Python script is to upload files to Dropbox.
+The purpose of this simple Python script is to automatically upload files to Dropbox.
 The script will upload files and folders recursively starting from a base path.
 Glob filter is supported, so you can upload main folder only, specific file extension or both
+
+# Use Cases
+- Automatic backup to Dropbox using CRON or Scheduled Task
+- Sync local files to Dropbox
+- Automate sharing files with others on shared folder
 
 # Requirements
 - Install Python 3.x
